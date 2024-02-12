@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Doctorpizza357
 - 👀 I’m interested in coding and video games
-- 🌱 I’m currently taking a coding class at school learning Html, Css, Javascript, Python, Java, and C#
+- 🌱 I’m currently taking a coding class at school learning Html, CSS, Javascript, Python, Java, and C#
 - 💞️ I’m looking to collaborate on lots of projects that i will be working on in the future
 - 📫 How to reach me doctorpizza357@gmail.com
 
